@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>TallerHilos</name>
+=======
+            <name>Registro de Factura</name>
+>>>>>>> e2721b92a87d2895a60238100b08d314571b821e
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
